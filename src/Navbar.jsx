@@ -4,11 +4,7 @@ const Navbar = () => {
     <Wrapper>
       <div className='center'>
         <div>
-          <img
-            className='logo'
-            src='/public/images/念之為小圖/logo.png'
-            alt='念之味'
-          />
+          <img className='logo' src='/public/logo.png' alt='念之味' />
         </div>
         <div className='info'>
           <div className='tel'>

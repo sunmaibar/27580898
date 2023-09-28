@@ -2,7 +2,7 @@ import styled from 'styled-components'
 const Hero = () => {
   return (
     <Wrapper>
-      <img className='img' src='/public/images/念之為小圖/DSC06183.JPG' />
+      <img className='img' src='/public/DSC06183.JPG' />
       <div className='info'>
         <h4>細節不平凡</h4>
         <p className='desc'>
