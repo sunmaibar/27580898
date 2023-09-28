@@ -6,7 +6,7 @@ const Location = () => {
       <Title text='店家資訊' />
       <Wrapper>
         <div className='imageContainer'>
-          <img className='img' src='/public/DSC06189.jpg' alt='念之味排骨' />
+          <img className='img' src='/DSC06189.jpg' alt='念之味排骨' />
         </div>
         <div className='infoContainer'>
           <p>地址：台北市莊敬路287號</p>

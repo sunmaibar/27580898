@@ -26,7 +26,7 @@ function App() {
       <Navbar />
       <Hero />
       <section className='menu'>
-        <Title text='菜單' />
+        <Title text='看菜單' />
         <Categories categories={categories} filterItems={filterItems} />
         <Menu items={menuItems} />
       </section>

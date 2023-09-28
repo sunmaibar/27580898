@@ -2,11 +2,12 @@ import styled from 'styled-components'
 const Hero = () => {
   return (
     <Wrapper>
-      <img className='img' src='/public/DSC06183.JPG' />
+      <img className='img' src='/DSC06183.JPG' />
       <div className='info'>
         <h4>細節不平凡</h4>
         <p className='desc'>
           念之味排骨是在莊敬路上認真經營超過十年以上的便當店，店內採用上選的食材，米飯更是挑選東部的優質米，與特殊的烹飪方式，米飯粒粒分明，軟糯Q彈，入口即化，香氣四溢，餘味悠長。
+          <br />
           <br />
           我們精心製作便當，安排菜色，每日的菜色都不同，許多客人更是一試成主顧，天天報到，更是附近上班大樓與北醫首選。
         </p>
