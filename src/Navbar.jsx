@@ -8,7 +8,9 @@ const Navbar = () => {
         </div>
         <div className='info'>
           <div className='tel'>
-            訂購電話：<span>02-2758-0898</span>
+            訂購電話：
+            <br />
+            <span>02-2758-0898</span>
           </div>
           {/* <div>地址：台北市莊敬路287號</div> */}
           <div className='worning'>五個可外送，請於11點前來電</div>
@@ -45,6 +47,7 @@ const Wrapper = styled.section`
     /* text-align: center; */
     .tel {
       /* font-weight: bold; */
+      line-height: 1.2;
     }
     .worning {
       font-size: 0.6rem;
